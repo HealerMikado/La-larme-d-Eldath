@@ -20,6 +20,10 @@ Grace à vos pouvoirs vous avez, guéri Catherine (imposition des mains Searis) 
 Dans la forêt vous avez rencontré des gobelins de la tribus de Crigs Nez de bois. Ils vous ont dit que eux aussi étaient malades, et ne sont pas la cause de animaux exposé prêt du village. Vous trouvé gravé sur les arbres des traces de griffes faites au couteau, et les gobelin vous apprenne que c'est le "grand renard" qui fait ça. 
 
 Alors qu'ils vous guidé vers la tourbière, vous avez été attaqués par des créatures de moisissure. Les gobelins ont fui dès le début du combat.
+
+**Total xp session** : 400 (133 chacun)
+**Total xp aventure** : 133
+
 ## Eléments d'univers/information
 - Une étrange maladie respiratoire frappe la ville de Château Sombre.
 - Rodeuse Trixy la magicienne est absente en ce moment.
