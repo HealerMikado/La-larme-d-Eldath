@@ -1,11 +1,11 @@
 ---
 type: session
-date: 18/02
+date: 17/03
 location: La case
 character: Inglis, Searis, Agrash, Seleste, Elena
-title: Séance 1
-weight: 10
-linktitle: Séance 1
+title: Séance 2
+weight: 20
+linktitle: Séance 2
 ---
 ## Résumé session
 
